@@ -1,0 +1,66 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: #e5e5e5;
+    text-align: center;
+}
+
+.header {
+    background-color: #f29d0c;
+    color: white;
+    text-align: center;
+}
+
+.science {
+    background-color: #2f779e;
+    color: white;
+    text-align: center;
+}
+
+.life {
+    background-color: #31841c;
+    color: white;
+    text-align: center;
+}
+
+.visit {
+    background-color: #721e96;
+    color: white;
+    text-align: center;
+}
+
+.museum-entrance {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #a13333;
+}
+
+a:hover {
+    color: #31841c;
+}
+
+a:active {
+    color: #f29d0c
+}
+
+ul {
+    list-style: none;
+    padding: 0;}
+
+ ul.visit-website {
+    text-align: center;
+    text-transform: uppercase;
+    list-style: none;
+ }
+
+ p.lead {
+    font-size: 20px;
+    font-weight: bold;
+ }
